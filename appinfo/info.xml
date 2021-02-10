@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <info>
-	<id>theme-example</id>
-	<name>Example ownCloud Theme</name>
-	<description>This App provides the example ownCloud theme.</description>
+	<id>cool-theme</id>
+	<name>Cool theme</name>
+	<description>This theme develped for AutoQuickPic.</description>
 	<licence>AGPL</licence>
-	<author>Philipp Schaffrath</author>
+	<author>Ariful Islam</author>
 	<version>1.0.0</version>
 	<types>
 		<theme/>
