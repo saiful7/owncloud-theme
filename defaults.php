@@ -1,8 +1,8 @@
 <?php
 /**
- * @author Björn Schießle <schiessle@owncloud.com>
- * @author Jan-Christoph Borchardt, http://jancborchardt.net
- * @copyright Copyright (c) 2018, ownCloud GmbH
+ * @author Ariful Islam <arifulislamat@gmail.com>
+ * @author SAiful Islam Rokon Akon <saiful5@yahoo.com>
+ * @copyright Copyright (c) 2021, SAiful Islam Rokon Akon
  * @license AGPL-3.0
  *
  * This code is free software: you can redistribute it and/or modify
@@ -73,7 +73,7 @@ class OC_Theme {
 	 * @return string title
 	 */
 	public function getTitle() {
-		return 'AutoQuickPic-Cloud';
+		return 'AutoQuickPic';
 	}
 
 	/**
@@ -89,7 +89,7 @@ class OC_Theme {
 	 * @return string title
 	 */
 	public function getHTMLName() {
-		return '<b>AutoQuickPic</b> Cloud';
+		return '<b>AutoQuickPic</b> ';
 	}
 
 	/**
@@ -113,7 +113,7 @@ class OC_Theme {
 	 * @return string logo claim
 	 */
 	public function getLogoClaim() {
-		return '<a href="https://example.com">Custom Claim</a>';
+		return '<a href="https://cloud.autoquickpic.com"> </a>';
 	}
 
 	public function getPrivacyPolicyUrl() {
