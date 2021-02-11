@@ -97,7 +97,7 @@ class OC_Theme {
 	 * @return string entity name
 	 */
 	public function getEntity() {
-		return 'autoquickpic.com.';
+		return 'AutoQuickPic.';
 	}
 
 	/**
@@ -105,7 +105,7 @@ class OC_Theme {
 	 * @return string slogan
 	 */
 	public function getSlogan() {
-		return 'A safe place for your data!';
+		return 'Managing Media for Collision Repairers!';
 	}
 
 	/**
@@ -113,7 +113,7 @@ class OC_Theme {
 	 * @return string logo claim
 	 */
 	public function getLogoClaim() {
-		return '<a href="https://cloud.autoquickpic.com"> </a>';
+		return '<a href="https://autoquickpic.com"> </a>';
 	}
 
 	public function getPrivacyPolicyUrl() {
