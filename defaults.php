@@ -25,7 +25,7 @@ class OC_Theme {
 	 * @return string URL
 	 */
 	public function getBaseUrl() {
-		return 'https://cloud.autoquickpic.com/';
+		return 'https://autoquickpic.com/';
 	}
 
 	/**
@@ -113,7 +113,7 @@ class OC_Theme {
 	 * @return string logo claim
 	 */
 	public function getLogoClaim() {
-		return '<a href="https://autoquickpic.com"> </a>';
+		return '<a href="https://cloud.autoquickpic.com"> </a>';
 	}
 
 	public function getPrivacyPolicyUrl() {
